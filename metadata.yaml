@@ -1,10 +1,16 @@
 _repo: Motor-Matt-s-Launch-or-A-Friend-in-Need_50533
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50533-h/images/coverlarge.jpg
 creator:
   author:
     agent_name: Matthews, Stanley R.
     gutenberg_agent_id: '43601'
     url: http://www.gutenberg.org/2009/agents/43601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50533#Motor-Matt-s-Launch-or-A-Friend-in-Need
 gutenberg_issued: '2015-11-22'
 gutenberg_type: Text
 identifiers:
